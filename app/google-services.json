@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "73110224254",
+    "project_id": "truecaller-2509d",
+    "storage_bucket": "truecaller-2509d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73110224254:android:d53df8fea557bcd46cc72f",
+        "android_client_info": {
+          "package_name": "com.harshkethwas.truecaller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73110224254-c642bu1i3eif9iv0bm0k0opsb87ct3qk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harshkethwas.truecaller",
+            "certificate_hash": "6c30d0ffff1fa2f00016369627db635c4b613181"
+          }
+        },
+        {
+          "client_id": "73110224254-e64ickq6tnsl9pvts1onbkfq0d1o5btq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeuylVCzfi2X3DEAZCYHA8P8YWqTiKVW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73110224254-e64ickq6tnsl9pvts1onbkfq0d1o5btq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

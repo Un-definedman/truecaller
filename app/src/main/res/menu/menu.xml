@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <item
+            android:id="@+id/Calls"
+            android:icon="@drawable/icons8_contact_details_100"
+            android:title="Calls"
+            android:iconTint="@null"
+            />
+
+
+        <item
+            android:id="@+id/contacts"
+            android:icon="@drawable/icons8_contacts_100"
+            android:title="contacts"
+            android:tint="@null"/>
+
+        <item
+            android:id="@+id/report"
+            android:icon="@drawable/icons8_fraud_100__1_"
+            android:title="report"
+           android:iconTint="@null" />
+
+
+
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/icons8_call_male_50"
+            android:title="Profile"
+            android:iconTint="@null"
+
+            />
+
+
+
+    </menu>
